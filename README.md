@@ -1,3 +1,5 @@
+App: https://california-housing-price.streamlit.app/
+
 
 California Housing Price Prediction:
 This project involves analyzing the California Housing dataset and building a predictive model to estimate house prices based on various features. The dataset is fetched using the sklearn.datasets.fetch_california_housing() function from the Scikit-learn library. The data is then processed and visualized to understand the relationships between the features and the target variable (house prices).
@@ -69,8 +71,6 @@ pip install numpy pandas scikit-learn
 Running the Project
 Clone the repository:
 bash
-Copy code
-git clone https://github.com/yourusername/california-housing-price-prediction.git
 Navigate to the project directory:
 bash
 Copy code
@@ -81,3 +81,4 @@ Copy code
 python your_script.py
 License
 This project is licensed under the MIT License.
+
